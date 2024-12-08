@@ -1,5 +1,5 @@
 
-# Read maxe and measure dimensions
+# Read maze and measure dimensions
 mazeorg = []
 #f = open("test.txt","r")
 f = open("input.txt","r")
